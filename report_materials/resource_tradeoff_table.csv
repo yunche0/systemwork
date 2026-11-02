@@ -1,0 +1,3 @@
+system,index_bytes_median,peak_rss_kb_median,peak_rss_kb_min,peak_rss_kb_max,index_size_GiB,peak_rss_MiB,peak_rss_min_MiB,peak_rss_max_MiB
+gateann,509542604.0,425032.0,425000,428112,0.4745485298335552,415.0703125,415.0390625,418.078125
+pipeann,9046323396.0,155652.0,155628,155836,8.425045195966959,152.00390625,151.98046875,152.18359375
